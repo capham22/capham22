@@ -1,32 +1,37 @@
 ## Hi there 👋
 
-## 🧠 Stacks
-### 💻 Programming Languages
+## 🛠 Tech Stack
+
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat_square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat_square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat_square&logo=c%2B%2B&logoColor=white)
 
+### 🤖 Robotics
+![ROS 2 Humble](https://img.shields.io/badge/ROS2-Humble-blue?style=flat_square&logo=ros&logoColor=white)
+![tf2](https://img.shields.io/badge/tf2-22314E?style=flat_square&logo=ros&logoColor=white)
+![MoveIt](https://img.shields.io/badge/MoveIt-00BFFF?style=flat_square&logo=moveit&logoColor=white)
+![URDF](https://img.shields.io/badge/URDF-FFDD00?style=flat_square)
+![RViz](https://img.shields.io/badge/RViz-772953?style=flat_square)
+![Gazebo](https://img.shields.io/badge/Gazebo-888888?style=flat_square&logo=gazebo&logoColor=white)
 
-### 🛠️ Frameworks & Libraries
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat_square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat_square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat_square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat_square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat_square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat_square)
+### 🧠 Vision / AI
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat_square&logo=opencv&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat_square&logo=ros&logoColor=white)
-### 🔧 Hardware & IoT
-![CATIA](https://img.shields.io/badge/CATIA-00205B?style=flat_square&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-FF1493?style=flat_square)
+![Realsense](https://img.shields.io/badge/Intel%20Realsense-0071C5?style=flat_square&logo=intel&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-7B68EE?style=flat_square)
+![TTS/STT](https://img.shields.io/badge/TTS/STT-1E90FF?style=flat_square)
 
-### 🧰 Tools
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=flat_square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat_square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat_square&logo=googlecolab&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat_square&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat_square&logo=notion&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat_square&logo=linux&logoColor=black)
+### 🛠 Other Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat_square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat_square&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat_square&logo=ubuntu&logoColor=white)
+![tkinter](https://img.shields.io/badge/tkinter-FFB6C1?style=flat_square)
+![FSM](https://img.shields.io/badge/FSM%20Design-556B2F?style=flat_square)
 
+### 🗄️ Database
+![FAISS](https://img.shields.io/badge/FAISS-0099CC?style=flat_square)
+![Pinecone](https://img.shields.io/badge/Pinecone-1DBF73?style=flat_square)
 
 ## 📜 Projects
 
