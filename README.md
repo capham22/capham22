@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+---
+
+## 🧩 Profile
+
+- 👩‍🎓 **이름**
+  - 함국성
+- 🎓 **학력**
+  - 국민대학교 자동차IT융합학과 졸업 (2024.02) #졸업 유예
+
+---
+
 ## 🛠 Tech Stack
 
 **Languages**: <br>
@@ -17,14 +28,34 @@
 **Database**:  
 ![Vector DB](https://img.shields.io/badge/Vector%20DB-1DBF73?style=flat_square)
 
+---
 
 ## 📜 Projects
 
 - 💊 [**PharmacyBot** - Voice-Driven Medicine Recommendation & Robotic Dispensing System](https://github.com/Rokey-D-3/pharmacy_main)  
   _기간: 2025.06.09 ~ 2025.06.20_
 
+---
+
 ## 🎒 Activities
   | 활동명 | 기간 | 설명 |
   |--------|------|------|
   | **KORA**| 2021.03 ~ 2022.02 | • 학과 내 자동차 동아리 |
   | **Doosan Rokey 로보틱스 부트캠프** | 2025.01 ~ 2025.07 | • 두산 로보틱스에서 주최한 부트캠프 수료<br>• 로보틱스 프로젝트 다수 수행 |
+
+---
+
+## 📄 Certifications
+
+- 
+- 
+- 
+
+---
+
+## 📫 Contact
+
+- **Email**: gukseong723@gmail.com
+- **Portfolio**: 
+- **Location**: South Korea  
+  
