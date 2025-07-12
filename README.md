@@ -3,6 +3,9 @@
 ## 🧠 Stacks
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat_square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat_square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat_square&logo=c%2B%2B&logoColor=white)
+
 
 ### 🛠️ Frameworks & Libraries
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat_square&logo=pytorch&logoColor=white)
@@ -14,7 +17,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat_square&logo=opencv&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat_square&logo=ros&logoColor=white)
 ### 🔧 Hardware & IoT
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat_square&logo=arduino&logoColor=white)
+![CATIA](https://img.shields.io/badge/CATIA-00205B?style=flat_square&logoColor=white)
 
 ### 🧰 Tools
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=flat_square&logo=visualstudiocode&logoColor=white)
