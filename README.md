@@ -66,7 +66,7 @@
 
 ---
 
-## 📄 Certifications
+# 📄 Certifications
 
 - 
 - 
@@ -77,6 +77,6 @@
 ## 📫 Contact
 
 - **Email**: gukseong723@gmail.com
-- **Portfolio**: 
+- **Phone**: 010 - 
 - **Location**: South Korea  
   
