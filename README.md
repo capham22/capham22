@@ -49,8 +49,11 @@
 ---
 
 ## 📜 Projects
-
-- 💊 [**PharmacyBot** - Voice-Driven Medicine Recommendation & Robotic Dispensing System](https://github.com/Rokey-D-3/pharmacy_main)  
+- 🛣️ [**Transportation_Robot** -Illegal Parking Enforcement Robot Project](https://github.com/capham22/Doosan_Robotics_D3_P1_2.git)  
+  _기간: 2025.05.09 ~ 2025.05.22_
+- 🦾 [**Patient_Assistance_Robot** -A robot controlled via a GUI that collaborates with healthcare workers in a nursing home.](https://github.com/capham22/Doosan_Robotics_D3_P1_2.git)  
+  _기간: 2025.05.23 ~ 2025.06.05_
+- 💊 [**PharmacyBot** - Voice-Driven Medicine Recommendation & Robotic Dispensing System](https://github.com/capham22/pharmacy_bot.git)  
   _기간: 2025.06.09 ~ 2025.06.20_
 
 ---
